@@ -3,6 +3,9 @@ Simple React app for practicing and revising React states
 
 https://steps-react-state-practice.netlify.app/
 
+![image](https://github.com/user-attachments/assets/7a51df38-420b-4527-92e2-f4b0d1e733ac)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
