@@ -1,5 +1,7 @@
 # steps
-Simple React app for practice
+Simple React app for practicing and revising React states
+
+https://steps-react-state-practice.netlify.app/
 
 # Getting Started with Create React App
 
